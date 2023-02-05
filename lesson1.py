@@ -4,6 +4,7 @@ app = Flask(__name__)
 
 print("git")
 print("git3")
+print("git2")
 
 @app.route("/")
 def hello():
