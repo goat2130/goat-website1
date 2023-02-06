@@ -1,0 +1,13 @@
+
+/* テスト */
+h2 {
+    color: blue;
+}
+
+/* aboutの画像を編集 */
+.figure {
+    float: left;
+    width: 45% ;
+    margin-right: 10px;
+    margin-left: 20px;
+  }

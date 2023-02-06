@@ -1,8 +1,10 @@
 # goat-website1
 
 pyenv 2.3.12
-git 2.39.1 
+git 2.39.1
 Python 3.11.0
+Flask 2.2.2
+Werkzeug 2.2.2
 
 ##これは今年度、７月に開催される小久慈朝市の出店をPRするWEBサイトである
 
