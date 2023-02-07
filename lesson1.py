@@ -9,3 +9,7 @@ def hello():
 @app.route("/about")
 def about():
     return render_template("about.html")
+
+@app.route("/product")
+def product():
+    return render_template("product.html")
