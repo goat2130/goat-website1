@@ -17,3 +17,7 @@ def product():
 @app.route("/souvenir")
 def souvenir():
     return render_template("souvenir.html")
+
+@app.route("/greeting")
+def greeting():
+    return render_template("greeting.html")
