@@ -13,3 +13,7 @@ def about():
 @app.route("/product")
 def product():
     return render_template("product.html")
+
+@app.route("/greeting")
+def greeting():
+    return render_template("greeting.html")
